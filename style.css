@@ -1,0 +1,63 @@
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+
+/* navbar */
+.p-2 {
+    font-size: 23px;
+    transition-property: box-shadow, color;
+    transition-duration: .3s;
+    transition-delay: .2s;
+}
+
+.p-2:hover {
+    border-radius: 8px 20px;
+    box-shadow: 0px 0px 10px cyan;
+    background-color: aqua;
+    color: rgb(241, 115, 115);
+}
+
+.div1 {
+    border: 2px solid;
+    height: 680px;
+}
+
+
+/* .mydet {
+    width: 800px;
+    height: 600px;
+    color: white;
+} */
+
+
+
+.hello {
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.my-name {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+button {
+    margin-left: 250px;
+    margin-top: 150px;
+    box-shadow: 0px 0px 20px black;
+    background-color: rgb(203, 203, 108);
+    border-radius: 20px;
+}
+.i{
+    box-shadow: 0px 0px 20px black;
+}
+.icons{
+/* border: 2px solid rgb(223, 12, 47); */
+height:260px ;
+}
+.about:hover{
+border: transparent;
+}
