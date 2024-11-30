@@ -1,2 +1,1 @@
-# Tailwind-portfolio
-Responsive portfolio using Tailwindcss
+**Live Preview 👉** https://darkworldprogrammer.github.io/Tailwind-portfolio/
